@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.trailingComma": "all",
+    "prettier.bracketSpacing": false,
+    "prettier.enableDebugLogs": true,
+    "cSpell.userWords": [
+      "Собрать"
+    ],
+    "json.schemas": [
+    
+    ]
+  }
+  
